@@ -1,5 +1,5 @@
 $a = 10;
 $b = 20;
-print $a + $b . "\n";
-print $a . $b ."n";
-print $a;
+print ($a + $b) . "\n";
+print $a . $b . "\n";
+print $a . "\n";
